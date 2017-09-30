@@ -7,6 +7,7 @@ Course materials for [Metis' Live Online Introduction to Data Science Course](ht
 ### [Course Project](project/README.md)
 
 ###Schedule:
+
 Tuesday | Thursday
 --- | ---
 10/03: [Introduction to Python and Version Control](#class-1-introduction-to-python-and-version-control) | 10/05: [Introduction to Linear Algebra and Statistics in Python](#class-2-introduction-to-linear-algebra-and-statistics-in-python)
