@@ -57,7 +57,7 @@ By October 24, you will be expected to:
 
 ### October 31: Project check-in #2
 
-By October 31, you will be well into working on your project. Please don't procrastinate
+By October 31, you will be well into working on your project. **Please don't procrastinate.**
 
 ### November 9: Final project presentation
 
