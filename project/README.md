@@ -2,7 +2,7 @@
 
 ## Due Dates and Links
 
-* **April 20:** Decide on project, either your own, or entering a competition
+* **October 17:** Decide on project, either your own, or entering a competition
     * [Public data sources](public_data.md)
     * Data science competitions: 
        * [Kaggle](http://www.kaggle.com/)
@@ -12,9 +12,9 @@
        * [InnoCentive](https://www.innocentive.com/ar/challenge/browse)
     * Statistical Competitions:
       * [International Association for Statistical Computing](http://www.iasc-isi.org/node/276) - contains links to past competitions in [2014](http://www.iasc-isi.org/node/227), [2013](http://www.iasc-isi.org/node/189)
-* **April 27:** Project check-in #1
-* **May 4:** Project check-in #2
-* **May 11:** Final project presentation
+* **October 24:** Project check-in #1
+* **October 31:** Project check-in #2
+* **November 9:** Final project presentation
 
 ## Overview
 The final project should represent original work applying data science techniques to an interesting problem. You own your final projects, but you should be talking frequently with your instructor and classmates about them.
@@ -25,9 +25,9 @@ You can either use [publicly available data](public_data.md) or your own data th
 
 ## Milestones
 
-### April 20: Decide on your project
+### October 17: Decide on your project
 
-By April 20 you will be expected to:
+By October 17 you will be expected to:
     
  * have talked with me about your project idea(s) and made a decision about what you're going to do. I can help you to choose between different ideas, advise you on the appropriate scope for your project, and ensure that your project question might reasonably be answerable using the data science tools and techniques taught in the course.
     
@@ -42,9 +42,9 @@ By April 20 you will be expected to:
 
     If it's not practical to include your entire dataset in your GitHub repository, you should link to your data source and provide a sample of the data. (GitHub has a [size limit](https://help.github.com/articles/what-is-my-disk-quota/) of 100 MB per file and 1 GB per repository.)
 
-### April 27: Project check-in #1
+### October 24: Project check-in #1
 
-By April 27, you will be expected to:
+By October 24, you will be expected to:
 
  * check in with me about what you've done so far on your project. You need to be able to show me the work you have done so far, as well as your plans for the project going forward. Everything you've done so far on the project should be included and fully updated in your public GitHub repository.
 
@@ -55,11 +55,11 @@ By April 27, you will be expected to:
     3. Will you be able to answer your question with this data, or do you need to gather more data (or adjust your question)?
     4. What modeling approach are you using to answer your question?
 
-### May 4: Project check-in #2
+### October 31: Project check-in #2
 
-By May 4, you will be well into working on your project. Please don't procrastinate
+By October 31, you will be well into working on your project. Please don't procrastinate
 
-### May 11: Final project presentation
+### November 9: Final project presentation
 
 Your project repository on GitHub should contain the following:
 
