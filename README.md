@@ -6,7 +6,7 @@ Course materials for [Metis' Live Online Introduction to Data Science Course](ht
 
 ### [Course Project](project/README.md)
 
-###Schedule:
+### Schedule:
 
 Tuesday | Thursday
 --- | ---
