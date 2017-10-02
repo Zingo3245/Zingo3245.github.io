@@ -4,6 +4,8 @@ Course materials for [Metis' Live Online Introduction to Data Science Course](ht
 
 **Instructor:** [Sergey Fogelson](https://www.linkedin.com/in/sergeyfogelson)
 
+**Teaching Assistant:** [Kevin Mercurio](https://www.linkedin.com/in/mercurio1)
+
 ### [Course Project](project/README.md)
 
 ### Schedule:
@@ -25,8 +27,6 @@ Tuesday | Thursday
 * Complete the exercises in chapters 2 and 3 of [this open textbook](https://www.openintro.org/stat/textbook.php).
 )
 * Practice Python using the resources below if you get through everything else.
-* I would like to check the setup of your laptop before the course begins:
-    * We need to figure out the logistics behind this, but it absolutely must happen before the course starts. If I cannot check it, someone else at Metis will, who will then sign off on you being able to start the course. YOU CANNOT START THE COURSE UNTIL EITHER I OR SOMEONE ELSE AT METIS CONFIRMS YOU HAVE A WORKING DEVELOPMENT ENVIRONMENT AS WE DO NOT WANT TO SPEND THE FIRST HOUR OF THE FIRST CLASS DEBUGGING ENVIRONMENTS.
 
 ### Python Resources
 * [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
