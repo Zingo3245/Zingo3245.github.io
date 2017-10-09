@@ -93,7 +93,7 @@ Tuesday | Thursday
 
 **Homework:**
 * Finish the exercises you were not able to complete from the classwork for the day.
-* [notebook](notebooks/04_hw.ipynb)
+* class 4 HW 1 [notebook](notebooks/04_hw.ipynb)
 
 **Visualization Resources:**
 * Watch [Look at Your Data](https://www.youtube.com/watch?v=coNDCIMH8bk) (18 minutes) for an excellent example of why visualization is useful for understanding your data.
