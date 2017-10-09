@@ -13,6 +13,7 @@ Course materials for [Metis' Live Online Introduction to Data Science Course](ht
 Tuesday | Thursday
 --- | ---
 10/03: [Introduction to Python and Version Control](#class-1-introduction-to-python-and-version-control) | 10/05: [Introduction to Linear Algebra and Statistics in Python](#class-2-introduction-to-linear-algebra-and-statistics-in-python)
+10/10: [Pandas and Exploratory Data Analysis](#class-3-pandas-and-exploratory-data-analysis) | 10/12: [Pandas and Data Visualization](#class-4-pandas-and-data-visualization)
 
 ### Before the Course Begins (Prework):
 * Install [Git](http://git-scm.com/downloads).
@@ -65,6 +66,44 @@ Tuesday | Thursday
 **Homework:**
 * Work through as much of the [NumPy quickstart guide](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html) as you can.
 * Work through the remainder of the statistics exercises in the prework.
+
+-----
+
+### Class 3: Pandas and Exploratory Data Analysis
+* Using Pandas for Exploratory Data Analysis [notebook](notebooks/03_pandas_and_eda.ipynb)
+* Using Pandas for More Exploratory Data Analysis [notebook](notebooks/03_pandas_and_more_eda.ipynb) 
+
+**Homework:**
+* HW 1 [notebook](notebooks/03_hw1.ipynb)
+* HW 2 [notebook](notebooks/03_hw2.ipynb)
+
+**Resources:**
+* The Pandas [API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html) is well documented.
+* To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
+* Here are two excellent (but extremely long) notebooks on Pandas: 
+    * [Introduction to Pandas](http://nbviewer.ipython.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
+    * [Data wrangling with Pandas](http://nbviewer.ipython.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb).
+* If you want to go all in on Pandas (and NumPy), the book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) was written by the creator of Pandas. It is really great.
+* Here are examples of different types of [joins in Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining), for when you need to figure out how to merge two DataFrames.
+
+-----
+
+### Class 4: Pandas and Data Visualization
+* Visualization with Pandas and Matplotlib [notebook](notebooks/04_pandas_visualization.ipynb)
+
+**Homework:**
+* Finish the exercises you were not able to complete from the classwork for the day.
+* [notebook](notebooks/04_hw.ipynb)
+
+**Visualization Resources:**
+* Watch [Look at Your Data](https://www.youtube.com/watch?v=coNDCIMH8bk) (18 minutes) for an excellent example of why visualization is useful for understanding your data.
+* [Plotting in Pandas notebook](http://nbviewer.ipython.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb) 
+* The [visualization page](http://pandas.pydata.org/pandas-docs/stable/visualization.html) from the official Pandas documentation is fantastic.
+*  [This notebook on matplotlib](http://nbviewer.ipython.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_4-Matplotlib.ipynb) or this [similar notebook](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) are both very good for showing you how to use matplotlib effectively.
+* To explore different types of visualizations and when to use them:
+    * [Choosing a Good Chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+    * [The Graphic Continuum](http://www.coolinfographics.com/storage/post-images/The-Graphic-Continuum-POSTER.jpg)
+* This [PowerPoint presentation](http://www2.research.att.com/~volinsky/DataMining/Columbia2011/Slides/Topic2-EDAViz.ppt) from Columbia's Data Mining class contains lots of good advice for properly using different types of visualizations.
 
 -----
 
