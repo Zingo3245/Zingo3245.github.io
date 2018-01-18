@@ -4,7 +4,7 @@ Course materials for [Metis' Live Online Introduction to Data Science Course](ht
 
 **Instructor:** Trent Hauck
 
-**Teaching Assistant:** Ramesh Sampath
+**Assistant Instructor:** Ramesh Sampath
 
 ### [Course Project](project/README.md)
 
