@@ -19,3 +19,4 @@ I decided to test a second model that was gathered from the Kaggle Data had a di
 
 ## Conclusion
 
+The model that relied on data from Steam and Steam spy may benefit from more data points. That model only had 100 rows of data and if there were an easier way to scrape the websites, more data could be gathered and the predictive power of the model increased. One of the advantages of the second model was that it had several thousand cases. The second model could benefit from more features in order to increase it's predictive power. 
