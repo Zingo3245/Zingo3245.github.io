@@ -15,4 +15,4 @@ We decided that people with PhDs were be more willing and have more money to don
 
 Using the top 90th percentile of busiest stations in the MTA Data and the top 15 zip codes of PhD holders yielded 35 stations for each list. From there we were able to pick out 11 stations that were in both lists. Our recommendations were that WTWY send thier street teams to these 11 stations.
 
-![Graph](https://github.com/Zingo3245/Zingo3245.github.io/tree/master/images/blue_bars.png "barh graph")
+![Graph](/images/blue_bars.png "barh graph")
