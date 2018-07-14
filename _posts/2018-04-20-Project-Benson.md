@@ -6,6 +6,8 @@ title: Project Benson: Using MTA subway data to predict interest for a gala
 # Metis Project Benson
 For our first project, Victoria Ng and I were enlisted to help the fictional group WomenTechWomenYes(WTWS) with a gala they are planning to hold. To recruit people, WTWS would send street teams to subways in New York City and wanted our help with figuring out which stations would be the most optimal placement for their teams. 
 
+![Graphic](/images/subwaycrowded.jpg "crowded subway")
+
 ## Data
 In order to decide where to send the street teams, we would have to use the data from the New York Metropolitan Transportation Authority(MTA) on station usage. It was also highly encouraged that we bring in outside data to help with our analysis. The MTA data was a challenge to clean as there were various formatting issues. Our first step was to check our dates to see if there were any outliers and we noticed that 3/11 and 3/17-3/23 registered relatively low counts so we decided to remove these from the data. We found some strange anamolies with the counts. Some stations appeared to be counting backwards while the counts in other stations appeared to be thrown off by audits that were occuring outside of the regular four hour time intervals. We created a function to reverse the negative counts while dropping the audits from the data. Once we dealt with these issues, we were ready to bring in some outside data.
 
