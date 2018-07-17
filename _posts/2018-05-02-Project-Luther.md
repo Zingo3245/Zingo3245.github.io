@@ -3,7 +3,7 @@ layout: post
 title: Project Luther: Using video game data to predict user's ratings of video games
 ---
 
-# Metis Project Luther
+# Using video game data to predict user's ratings of video games
 
 I was interested in predicting how users would rate a video game based on the user score. Video games have become a big busniess that are projected to be worth an estimated $215 billion in 2018. To get the data to examine the issue, I turned to the popular video game selling website Steam.
 
