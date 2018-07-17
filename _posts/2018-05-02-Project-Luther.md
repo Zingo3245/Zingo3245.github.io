@@ -15,7 +15,11 @@ In order to get the data from Steam and it's accompanying website Steam Spy, I w
 
 The first model was the data comprised from the data gathered from Steam and Steam spy. In this model, I predicted that price and number of owners a game had would accurately predict the each user's rating of the game. I used Lasso Regression which helped me pair down redundant features from my model. Unfortunately the model had no predictive power and suffered from high error rates.
 
+![first_model](/images/jon_snow_vs.png "first_model")
+
 I decided to test a second model that was gathered from the Kaggle Data had a different set of features but could still be trained on user rating. In this model, I predicted that Critic's ratings, the number of critics who reviewed a game, the year the game was released, and the global sales of a game would predict the game's user rating. This model actually did have predictive power and had reasonably low error rates. 
+
+![second_model](/images/Tyrion_vs.png "second_model")
 
 ## Conclusion
 

@@ -3,7 +3,7 @@ layout: post
 title: Project Benson: Using MTA subway data to predict interest for a gala
 ---
 
-# Metis Project Benson
+# Using MTA subway data to predict interest for a gala
 For our first project, Victoria Ng and I were enlisted to help the fictional group WomenTechWomenYes(WTWS) with a gala they are planning to hold. To recruit people, WTWS would send street teams to subways in New York City and wanted our help with figuring out which stations would be the most optimal placement for their teams. 
 
 ![Graphic](/images/subwaycrowded.jpg "crowded subway")
