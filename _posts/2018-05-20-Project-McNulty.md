@@ -15,7 +15,11 @@ I downloaded the dataset from the [Militarized Interstate Disputes(MID)](http://
 
 I had a problem building a model around predicting an outcome since I had an unbalanced dataset with the outcome 'Stalemate' making up 65% of all outcomes. I decided to compensate for this by splitting the analysis into two levels. I created a column with a binary classifier where 1 was a stalemate outcome and 0 represented all other outcomes. In the second level of analysis I built a model to predict all the other outcomes. 
 
+![Confusion_stalemate](/images/Confusion_stalemate.png "Confusion_matrix_stalemate")
+
 The first model was accurate in predicting stalemate was accurate 89% of time time while the model that predicted all other outcomes was accurate 77% of the time.
+
+![Confusion_outcome](/images/Confusion_outcome.png "Confusion_matrix_outcome")
 
 ## Conclusions
 
