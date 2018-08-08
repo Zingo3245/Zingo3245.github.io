@@ -33,4 +33,12 @@ What was surprising was that Huffington Post and Mother Jones were confused with
 
 ![Left_right_convergence](/images/Left_right_convergence.png "Left_right_convergence")
 
+It was interesting that the Huffington Post was mistaken from Rueters a number of times. There is a common practice of some news sources directly sharing from centerist sources such as Rueters. 
+
+![Huffpo-Rueters](/images/Huffpo-Rueters.png "Huffpo-Rueters")
+
+There were also a number articles from Infowars that were predicted as Rueters and vice versa. This correlation was troubling but it highlights the challenge of detecting fake new or news from dubious sources. 
+
+![Fake_news](/images/F-F-Fake_news.png "Fake_news")
+
 I was able to build a model that was good at distinguishing the source of news articles. At the same time I was able to create a pipeline for handling large scale processes. 
