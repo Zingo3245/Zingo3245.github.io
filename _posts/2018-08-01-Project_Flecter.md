@@ -17,7 +17,7 @@ I scrapped 550 articles from Huffington Post, Breitbart, and Rueters. The articl
 
 After cleaning the text I used Count Vectorizer to fit a matrix which was reduced down to three topics thanks to KMeans. These three clusters tended to correlate with their respective sources.
 
-![Topics_KMeans_clusters](/images/news_matrix.jpg "news_matrix")
+![Topics_KMeans_clusters](/images/Topics_KMeans_clusters.png "Topics_KMeans_clusters")
 
 ## Conclusion
 
